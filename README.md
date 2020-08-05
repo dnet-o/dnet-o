@@ -5,9 +5,9 @@ Finalmente criei um repositório. Isso aqui estava mais empoeirado que meu guard
 Olá! Me chamo Décio e estou cursando Ciência da Computação. Estou mirando na área de segurança digital, e é com isso que quero trabalhar 💻.
 
 Você pode entrar em contato comigo através dos links:
-  LinkedIn: https://www.linkedin.com/in/decion/
-  Facebook: https://www.facebook.com/decioneto/ 
-  Instagram: https://www.instagram.com/dnet.o/
+  - LinkedIn: https://www.linkedin.com/in/decion/
+  - Facebook: https://www.facebook.com/decioneto/ 
+  - Instagram: https://www.instagram.com/dnet.o/
 
 Estagiei em algumas empresas e tenho sólida experiência com criação de sites com WordPress, e hoje estudo outras tecnologias para ampliar
 meu conhecimento e construir aplicativos web.
